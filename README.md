@@ -46,18 +46,18 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/bradchristopher"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bradchristopher" /></a></p><br><br>
 
-<h3 align="left">Most used languages:</h3>
+<h3>Most used languages:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tsmcidevtest&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
-<h3 align="left">Github Stats:</h3>
+<h>Github Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsmcidevtest&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Github Streak:</h3>
+<h3>Github Streak:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsmcidevtest" alt="GitHub Streak" />
 </p>
