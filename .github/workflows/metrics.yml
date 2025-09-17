@@ -1,18 +1,3 @@
-
-2. **Extra spaces / misaligned `hide:` key**  
-The `hide` line has extra spaces, which will cause YAML parsing issues.
-
-3. **Optional tokens and scopes**  
-You’re using a custom secret `METRICS_TOKEN`, make sure it has at least:
-- `public_repo`, `read:user`, `read:org`
-- and `repo` if you want **private repo stats**.
-
----
-
-### ✅ Fixed Version
-Here’s a cleaned and valid workflow:
-
-```yaml
 name: Metrics
 on:
 schedule: [{cron: "0 * * * *"}] # update hourly
