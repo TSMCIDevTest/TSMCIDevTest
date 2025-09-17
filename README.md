@@ -40,8 +40,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/bradchristopher"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bradchristopher" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsmcidevtest&show_icons=true&locale=en&layout=compact" alt="tsmcidevtest" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsmcidevtest&show_icons=true&locale=en&layout=compact" alt="TSMCIDevTest" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmcidevtest&show_icons=true&locale=en" alt="tsmcidevtest" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmcidevtest&show_icons=true&locale=en" alt="TSMCIDevTest" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmcidevtest&" alt="tsmcidevtest" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmcidevtest&" alt="TSMCIDevTest" /></p>
