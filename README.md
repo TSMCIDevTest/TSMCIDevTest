@@ -22,7 +22,8 @@
 - ⚡ Fun fact **I am very smart at coding!**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+### What music am I am listening to.
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ghyjxmhyr5mda3bho26i4vsuna&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ### Blogs posts
