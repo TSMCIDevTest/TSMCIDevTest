@@ -37,7 +37,9 @@ Check out my latest YouTube video:
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=TSMCIDevTest&show_icons=true&theme=tokyonight)  
-![Streak](https://streak-stats.demolab.com/?user=TSMCIDevTest&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsmcidevtest" alt="GitHub Streak" />
+</p>
 ![Achievements](https://github-profile-trophy.vercel.app/?username=TSMCUDevTest&theme=tokyonight&margin-w=8)
 
 ![](./github-metrics.svg)
