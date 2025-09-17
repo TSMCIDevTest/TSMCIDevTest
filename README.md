@@ -36,15 +36,15 @@ Check out my latest YouTube video:
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=CrazBrad77&show_icons=true&theme=tokyonight)  
-![Streak](https://streak-stats.demolab.com/?user=CrazBrad77&theme=tokyonight)  
-![Achievements](https://github-profile-trophy.vercel.app/?username=CrazBrad77&theme=tokyonight&margin-w=8)
+![Stats](https://github-readme-stats.vercel.app/api?username=TSMCIDevTest&show_icons=true&theme=tokyonight)  
+![Streak](https://streak-stats.demolab.com/?user=TSMCIDevTest&theme=tokyonight)  
+![Achievements](https://github-profile-trophy.vercel.app/?username=TSMCUDevTest&theme=tokyonight&margin-w=8)
 
 ---
 
 ## 🏔 GitHub Skyline
 Explore my 3D contribution graph:  
-🌐 [View My Skyline](https://skyline.github.com/CrazBrad77)
+🌐 [View My Skyline](https://skyline.github.com/TSMCIDevTest)
 
 ---
 
