@@ -21,6 +21,10 @@
 
 - ⚡ Fun fact **I am very smart at coding!**
 
+```
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [first blog post i see](https://dev.to/crazybrad77/first-blog-post-i-see-cf7)
