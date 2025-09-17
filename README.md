@@ -45,6 +45,8 @@
 ## 📰 Latest Blog Posts
 ### Dev.to
 <!-- BLOG-POST-LIST:START -->
+- [first blog post i see](https://dev.to/crazybrad77/first-blog-post-i-see-cf7)
+- [I am starting a blog as you did not know.](https://medium.com/@christopherbrad316/i-am-starting-a-blog-as-you-did-not-know-62a6f1574fbd?source=rss-0322de9eb776------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Meltium
