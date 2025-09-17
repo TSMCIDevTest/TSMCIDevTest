@@ -42,7 +42,6 @@ Check out my latest YouTube video:
 </p>
 ![Achievements](https://github-profile-trophy.vercel.app/?username=TSMCUDevTest&theme=tokyonight&margin-w=8)
 
-![](./github-metrics.svg)
 
 ---
 
