@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bradley Christopher</h1>
-<h3>Welcome to my github profile!</h3>
+<p align="center">Welcome to my github profile!</p>
 <h3 align="center">A passionate frontend and backend with some game knowledge developer from USA</h3>
 
 ## Here is some stuff like achivements:
