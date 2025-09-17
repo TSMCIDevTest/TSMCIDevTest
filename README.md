@@ -38,6 +38,9 @@ Check out my latest YouTube video:
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tsmcidevtest&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
 ![Stats](https://github-readme-stats.vercel.app/api?username=TSMCIDevTest&show_icons=true&theme=tokyonight)  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsmcidevtest" alt="GitHub Streak" />
