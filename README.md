@@ -44,7 +44,7 @@ Check out my latest YouTube video:
 
 ## 🏔 GitHub Skyline
 Explore my 3D contribution graph:  
-🌐 [View My Skyline](https://skyline.github.com/TSMCIDevTest)
+[![GitHub Skyline](https://skyline.github.com/TSMCIDevTest.gif)](https://skyline.github.com/TSMCIDevTest)
 
 ---
 
