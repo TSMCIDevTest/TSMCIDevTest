@@ -17,11 +17,13 @@ Check out my latest YouTube video:
 ---
 
 ## 🌐 Connect With Me
-- 💬 Discord: [Join My Server](https://discord.gg/YOUR_INVITE)  
-- ✍️ Dev.to: [My Dev.to Blog](https://dev.to/YOUR_USERNAME)  
-- 📰 Meltium Blog: [My Meltium Posts](https://YOUR_MELTIUM_BLOG_LINK)  
-- 🌍 Website: [GitHub Pages Site](https://crazbrad77.github.io)
-
+<p align="left">
+<a href="https://dev.to/crazybrad77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="crazybrad77" height="30" width="40" /></a>
+<a href="https://twitter.com/b_incorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_incorp" height="30" width="40" /></a>
+<a href="https://medium.com/@christopherbrad316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@christopherbrad316" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/youtube.com/@crazybrad77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@crazybrad77" height="30" width="40" /></a>
+<a href="https://discord.gg/9jegSGnSYw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9jegSGnSYw" height="30" width="40" /></a>
+</p>
 ---
 
 ## 📰 Latest Blog Posts
