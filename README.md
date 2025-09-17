@@ -1,9 +1,8 @@
-# Hi there 👋, I'm CrazBrad77
+<h1 align="center">Hi 👋, I'm Bradley Christopher</h1>
+<h2>Welcome to my github profile!</h2>
+<h3 align="center">A passionate frontend and backend with some game knowledge developer from USA</h3>
 
-Welcome to my GitHub profile!  
-I’m a developer who loves experimenting with projects, learning new tools, and building cool stuff. 🚀
-
-Here is some stuff like achivements:
+## Here is some stuff like achivements:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsmcidevtest&label=Profile%20views&color=0e75b6&style=flat" alt="tsmcidevtest" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsmcidevtest" alt="tsmcidevtest" /></a> </p>
@@ -17,7 +16,6 @@ Here is some stuff like achivements:
 
 ## 🎧 Spotify – Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ghyjxmhyr5mda3bho26i4vsuna&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 ---
 
