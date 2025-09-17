@@ -40,6 +40,8 @@ Check out my latest YouTube video:
 ![Streak](https://streak-stats.demolab.com/?user=TSMCIDevTest&theme=tokyonight)  
 ![Achievements](https://github-profile-trophy.vercel.app/?username=TSMCUDevTest&theme=tokyonight&margin-w=8)
 
+![](./github-metrics.svg)
+
 ---
 
 ## 🏔 GitHub Skyline
