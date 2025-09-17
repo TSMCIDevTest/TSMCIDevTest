@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I am very smart at coding!**
 
 
-![Visitor Count](https://profile-counter.glitch.me/TSMCIDevTest/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Blogs posts
