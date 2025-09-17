@@ -3,6 +3,13 @@
 Welcome to my GitHub profile!  
 I’m a developer who loves experimenting with projects, learning new tools, and building cool stuff. 🚀
 
+Here is some stuff like achivements:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsmcidevtest&label=Profile%20views&color=0e75b6&style=flat" alt="tsmcidevtest" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsmcidevtest" alt="tsmcidevtest" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/b_incorp" target="blank"><img src="https://img.shields.io/twitter/follow/b_incorp?logo=twitter&style=for-the-badge" alt="b_incorp" /></a> </p>
+
 ---
 
 ## 🎧 Spotify – Recently Played
