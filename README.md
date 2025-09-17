@@ -15,6 +15,10 @@ Here is some stuff like achivements:
 ## 🎧 Spotify – Recently Played
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31ghyjxmhyr5mda3bho26i4vsuna)
 
+## 🎧 Spotify – Playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ghyjxmhyr5mda3bho26i4vsuna&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 ---
 
 ## 🎥 Featured Video
