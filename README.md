@@ -84,7 +84,6 @@
 <p>Downloads</p>
 ## VS Code: https://code.visualstudio.com/download
 
-
 ## Google Earth Pro web or ios: https://www.google.com/earth/about/versions/
 
 ## 💻 Languages & Tools
