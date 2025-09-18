@@ -80,9 +80,7 @@
 ## Availblity
 <p>I am availble weekdays 1pm to 9pm and weekends 7am to 9pm.</p>
 
-### Links I use that are not blocked by high school
-
-## Downloads:
+## Links I use that are not blocked by high school
 <p>VS Code: https://code.visualstudio.com/download</p>
 <p>Google Earth Pro web or ios: https://www.google.com/earth/about/versions/</p>
 
