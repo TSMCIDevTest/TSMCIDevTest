@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2997" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2933" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    429k added, 1.85k removed
+                                    1.02m added, 1.45k removed
                                 </div>
                             </section>
                             <section>
@@ -384,14 +384,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.28660083449563" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.28660083449563" y="0" width="11.904949772717268" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.1915506072129" y="0" width="2.2161733873053273" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.4077239945182" y="0" width="0.6029709512448462" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.010694945763" y="0" width="0.5302113618480097" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.54090630761107" y="0" width="0.23180046179523156" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.7727067694063" y="0" width="0.15150735739004997" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.92421412679636" y="0" width="0.07578587320360766" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.2568841704865" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.2568841704865" y="0" width="11.905169742733827" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="456.16205391322035" y="0" width="2.21624653106509" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.3783004442854" y="0" width="0.6323762219004111" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.0106766661858" y="0" width="0.5302211586639788" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.5408978248498" y="0" width="0.23180474481636087" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.77270256966614" y="0" width="0.1515101568202492" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.9242127264864" y="0" width="0.07578727351357133" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -547,7 +547,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 64 commits)</small>
+                    <small class="h-details">(computed from last 65 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2248,6 +2248,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5fbeb98</div>
+                                        <div class="message">Update index.html</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TSMCIDevTest/HTML-Tutorial-Series</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#d1100b6</div>
                                         <div class="message">Update index.html</div>
                                     </div>
@@ -2306,26 +2326,6 @@
                                         <span class="code">Part1</span>
                                         in
                                         <span class="repo">TSMCIDevTest/HTML-Tutorial-Series</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TSMCIDevTest/HTML-Tutorial-Series</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#53b7e2b</div>
-                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2526,7 +2526,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 27 Sept 2025, 15:54:29
+                            On 27 Sept 2025, 15:53:28
                         </div>
                     </section>
                 </div>
@@ -2542,7 +2542,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">df7be30a</span>
+                            <span class="code">a102dd75</span>
                             <span class="code">README.md</span>
                             <span class="code">
                                 <span class="snippet additions">++4</span>
@@ -2554,7 +2554,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -4,7 +4,11 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Playlist: https://youtube.com/playlist?list=PLBpopRw5_S54HaVfAOUbDkgTacq6vBXzm&amp;si=7qSBqWi1hero1BJq<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">Part 1: https://youtu.be/c7ywGTrp5s0<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Part 2: waiting<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Part 3: waiting<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Part 4: waiting<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Finish: waiting</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,2 +1,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># HTML-Tutorial-Series<br /></span><span class="token prefix unchanged">·</span><span class="token line">Heres the source code for the series: How to learn HTML with Brad!<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">Playlist: https://youtube.com/playlist?list=PLBpopRw5_S54HaVfAOUbDkgTacq6vBXzm&amp;si=7qSBqWi1hero1BJq<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">Part 1: https://youtu.be/c7ywGTrp5s0</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2734,7 +2734,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
                         </div>
                     </section>
                 </div>
@@ -2759,7 +2759,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2025, 08:19:25 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2025, 09:24:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
