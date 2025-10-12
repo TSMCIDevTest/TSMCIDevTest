@@ -2,6 +2,9 @@
 <p align="center">Welcome to my github profile!</p>
 <h3 align="center">A passionate frontend and backend with some game knowledge developer from USA</h3>
 
+## Logo of my favorate artest while my sister listen to golden from netflix new movie kpop deomon hunters!
+<img src="//anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&amp;width=500" alt="Anarchist Sanctuary" srcset="//anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&amp;width=50 50w, //anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&amp;width=100 100w, //anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&amp;width=150 150w, //anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&amp;width=200 200w, //anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&amp;width=250 250w, //anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&amp;width=300 300w, //anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&amp;width=400 400w, //anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&amp;width=500 500w" width="110" height="110.0" class="header__heading-logo">
+
 ## Here is some stuff like achivements:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsmcidevtest&label=Profile%20views&color=0e75b6&style=flat" alt="tsmcidevtest" /> </p>
 
