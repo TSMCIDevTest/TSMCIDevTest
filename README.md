@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bradley Christopher</h1>
+[![header.png](https://github.com/TSMCIDevTest/TSMCIDevTest/blob/main/header.png?raw=true)
 <p align="center">Welcome to my github profile!</p>
 <h3 align="center">A passionate frontend and backend with some game knowledge developer from USA</h3>
 
