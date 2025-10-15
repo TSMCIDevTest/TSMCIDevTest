@@ -2,6 +2,9 @@
 <p align="center">Welcome to my github profile!</p>
 <h3 align="center">A passionate frontend and backend with some game knowledge developer from USA</h3>
 
+## Some Stack OverFlow info
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=31695967)](https://stackoverflow.com/users/31695967/brad-christopher)
+
 ## Logo of my favorate artest while my sisters listen to golden from netflix new movie kpop deomon hunters!
 ![Anarchist Sanctuary Logo](https://anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&width=500)
 
