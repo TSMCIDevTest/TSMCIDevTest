@@ -64,6 +64,11 @@ No activity tracked
 </p>
 
 ---
+## Discord Info
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1350482916534255676)](https://discord.com/users/1350482916534255676)
+
+---
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Making a Daily meme generator in html css and js!](https://dev.to/crazybrad77/making-a-daily-meme-generator-in-html-css-and-js-mgd)
