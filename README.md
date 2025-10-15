@@ -2,7 +2,7 @@
 <p align="center">Welcome to my github profile!</p>
 <h3 align="center">A passionate frontend and backend with some game knowledge developer from USA</h3>
 
-## Memes
+## Coding Memes
 <img src="https://subreddit-memes-eight.vercel.app/api/meme" width="350px"/>
 
 ---
