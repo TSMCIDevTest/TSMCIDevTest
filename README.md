@@ -2,6 +2,9 @@
 <p align="center">Welcome to my github profile!</p>
 <h3 align="center">A passionate frontend and backend with some game knowledge developer from USA</h3>
 
+## Leetcode Info
+[![Leetcode Stats](https://leetcard.jacoblin.cool/tsmcidevtest)](https://leetcode.com/tsmcidevtest)
+
 ## DevCard
 <a href="https://app.daily.dev/crazybrad77"><img src="https://api.daily.dev/devcards/v2/ZbjWDWtZZQ5S7YeJCKtEI.png?r=3xv&type=default" width="356" alt="Brad Christopher's Dev Card"/></a>
 
