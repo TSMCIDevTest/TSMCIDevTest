@@ -5,8 +5,12 @@
 ## Some Stack OverFlow info
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=31695967)](https://stackoverflow.com/users/31695967/brad-christopher)
 
+---
+
 ## Logo of my favorate artest while my sisters listen to golden from netflix new movie kpop deomon hunters!
 ![Anarchist Sanctuary Logo](https://anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&width=500)
+
+---
 
 ## Here is some stuff like achivements:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsmcidevtest&label=Profile%20views&color=0e75b6&style=flat" alt="tsmcidevtest" /> </p>
@@ -14,6 +18,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsmcidevtest" alt="tsmcidevtest" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/b_incorp" target="blank"><img src="https://img.shields.io/twitter/follow/b_incorp?logo=twitter&style=for-the-badge" alt="b_incorp" /></a> </p>
+
+---
+
+## Waka Stuff
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
