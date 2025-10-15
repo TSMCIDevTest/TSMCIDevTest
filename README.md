@@ -26,11 +26,6 @@
 
 ---
 
-## Logo of my favorate artest while my sisters listen to golden from netflix new movie kpop deomon hunters!
-![Anarchist Sanctuary Logo](https://anarchistsanctuary.com/cdn/shop/files/anarchisttt.gif?v=1735356593&width=500)
-
----
-
 ## Here is some stuff like achivements:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsmcidevtest&label=Profile%20views&color=0e75b6&style=flat" alt="tsmcidevtest" /> </p>
 
