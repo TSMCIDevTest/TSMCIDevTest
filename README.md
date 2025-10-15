@@ -67,6 +67,19 @@ No activity tracked
 ## Chess Info
 
 <!--START_SECTION:chessStats-->
+<!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
+
+| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
+|:---:|:---:|:---:|:---:|
+| Current | 100 | No Rating | No Rating |
+| Best | No Rating | No Rating | No Rating |
+
+| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| CamiloML96 | **CrazyBrad77** | timeout ❌ | 23/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp1pppp/8/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2">Link</a> | Daily |
+| **CrazyBrad77** | ize_of_the_world | checkmated ❌ | 16/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2bnr/pp3p1p/2np2p1/8/5r1K/2N4P/PPb3q1/R5NR w - -">Link</a> | Rapid |
+| **CrazyBrad77** | jii-ni | checkmated ❌ | 15/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k1p/4b2p/8/5K1b/8/4q3/5r2 w - -">Link</a> | Rapid |
+| sanjaysgowda | **CrazyBrad77** | checkmated ❌ | 15/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3r2Q1/N2k1R2/3P4/PPP3PP/R1B1K3 b Q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
