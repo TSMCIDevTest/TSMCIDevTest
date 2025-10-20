@@ -107,6 +107,7 @@ Bash         6 mins          ▒░░░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:START -->
 - [Making a Daily meme generator in html css and js!](https://dev.to/crazybrad77/making-a-daily-meme-generator-in-html-css-and-js-mgd)
 - [first blog post i see](https://dev.to/crazybrad77/first-blog-post-i-see-cf7)
+- [I am starting a blog as you did not know.](https://medium.com/@christopherbrad316/i-am-starting-a-blog-as-you-did-not-know-62a6f1574fbd?source=rss-0322de9eb776------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
