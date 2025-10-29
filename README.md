@@ -94,6 +94,7 @@ JSON         13 mins         ▒░░░░░░░░░░░░░░░░
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| southplayer_82 | **CrazyBrad77** | timeout ❌ | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2bnr/pp3ppp/3k4/1BpP1P2/4pB2/3P4/PPP3PP/RN2K1NR b KQ - 2 9">Link</a> | Bullet |
 | charlesbanay | **CrazyBrad77** | timeout ❌ | 16/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2bnr/pP2ppp1/3k4/2p4p/8/N7/PP1PKPPP/R1BQ1BNR b - - 0 8">Link</a> | Bullet |
 | CamiloML96 | **CrazyBrad77** | timeout ❌ | 23/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp1pppp/8/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2">Link</a> | Daily |
 | **CrazyBrad77** | ize_of_the_world | checkmated ❌ | 16/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2bnr/pp3p1p/2np2p1/8/5r1K/2N4P/PPb3q1/R5NR w - -">Link</a> | Rapid |
