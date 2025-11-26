@@ -10,6 +10,8 @@
 ## Snake
 ![github-snake.svg](https://github.com/TSMCIDevTest/TSMCIDevTest/blob/output/github-snake.svg)
 
+---
+
 ## Portfolio
 <p>https://portfolio-psi-lovat-84.vercel.app/</p>
 
