@@ -50,9 +50,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        7 hrs 27 mins   ████████████████████████▓   99.06 %
-Luau         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other        47 mins         ████████████████████████▓   98.68 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
