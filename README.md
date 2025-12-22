@@ -71,7 +71,12 @@ Dotenv       29 mins         ▓░░░░░░░░░░░░░░░░
 
 ## 🎥 Featured Video
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Some portfolio you could make and I will teach you how to make it when we hit 5 or 10 likes](https://ytcards.demolab.com/?id=khTQ2UFV6og&title=Some+portfolio+you+could+make+and+I+will+teach+you+how+to+make+it+when+we+hit+5+or+10+likes&lang=en&timestamp=1763905826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Some portfolio you could make and I will teach you how to make it when we hit 5 or 10 likes")](https://www.youtube.com/shorts/khTQ2UFV6og)
+[![How to use blender with Brad (Modifiers Object Mode Edit Mode and Inflate tool)](https://ytcards.demolab.com/?id=KZiriiob7MA&title=How+to+use+blender+with+Brad+%28Modifiers+Object+Mode+Edit+Mode+and+Inflate+tool%29&lang=en&timestamp=1760737491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to use blender with Brad (Modifiers Object Mode Edit Mode and Inflate tool)")](https://www.youtube.com/watch?v=KZiriiob7MA)
+[![How to learn HTML with Brad! (Part 2)](https://ytcards.demolab.com/?id=ffxOPuEPT0o&title=How+to+learn+HTML+with+Brad%21+%28Part+2%29&lang=en&timestamp=1759076131&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to learn HTML with Brad! (Part 2)")](https://www.youtube.com/watch?v=ffxOPuEPT0o)
+[![How to learn HTML with Brad! (Part 1)](https://ytcards.demolab.com/?id=c7ywGTrp5s0&title=How+to+learn+HTML+with+Brad%21+%28Part+1%29&lang=en&timestamp=1759013412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to learn HTML with Brad! (Part 1)")](https://www.youtube.com/watch?v=c7ywGTrp5s0)
+[![How to pressure stall the LIECR!](https://ytcards.demolab.com/?id=POLaOdpMlbw&title=How+to+pressure+stall+the+LIECR%21&lang=en&timestamp=1755876573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to pressure stall the LIECR!")](https://www.youtube.com/watch?v=POLaOdpMlbw)
+[![How to learn to code with brad](https://ytcards.demolab.com/?id=dNubhB_aGuk&title=How+to+learn+to+code+with+brad&lang=en&timestamp=1755819211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to learn to code with brad")](https://www.youtube.com/shorts/dNubhB_aGuk)
 <!-- END YOUTUBE-CARDS -->
 
 ## Become my subscriber of the day
