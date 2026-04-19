@@ -17,6 +17,27 @@
 ## 🎮 PSN + Twitch Live Dashboard (Auto-updated daily)
 
 <!--START_SECTION:psn-->
+<div align="center">
+  <h3>🎮 PSN + Twitch Live Dashboard • Updated Apr 19, 2026 23:22 UTC</h3>
+
+  <p><strong>Level 13</strong> • 0 Trophies • 0 Platinum 🏆</p>
+
+  <img src="https://img.shields.io/badge/PS%20Plus-❌%20Inactive-003087?style=for-the-badge&logo=playstation&logoColor=white" alt="PS Plus" />
+
+  <h4>🔥 Recent Platinums</h4>
+  <table>
+    <tr><th>Game</th><th>Earned</th></tr>
+    
+  </table>
+
+  <h4>📡 Live Status</h4>
+  <p><strong>PSN:</strong> Offline • <strong>Playing:</strong> Not playing</p>
+  <p><strong>Twitch:</strong> 🟢 Offline on Twitch</p>
+
+  <a href="https://twitch.tv/crazybrad77" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-Follow%20Me-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>
+</div>
 <!--END_SECTION:psn-->
 
 ---
