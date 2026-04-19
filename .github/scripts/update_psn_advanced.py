@@ -3,8 +3,8 @@ from datetime import datetime
 import requests
 from psnawp_api import PSNAWP
 
-PSN_ID = "banerlc"          # ← Your PSN Online ID
-TWITCH_USERNAME = "crazybrad77" # ← Your Twitch username
+PSN_ID = "banerlc"
+TWITCH_USERNAME = "crazybrad77"
 
 NPSSO = os.getenv("NPSSO")
 
@@ -23,7 +23,7 @@ def get_twitch_status():
 
 def main():
     if not NPSSO:
-        print("❌ NPSSO environment variable not found!")
+        print("❌ NPSSO not found!")
         return
 
     psnawp = PSNAWP(npsso_cookie=NPSSO)
@@ -33,15 +33,14 @@ def main():
     trophy_summary = user.trophy_summary()
     presence = user.get_presence()
 
-    # FIXED: trophy_titles() returns TrophyTitle objects, not dicts
+    # Recent Platinums (safer handling of TrophyTitle objects)
     recent_platinums = []
     try:
-        for title in user.trophy_titles(limit=50):
-            # Access attributes directly (TrophyTitle object)
-            earned_trophies = title.earned_trophies if hasattr(title, 'earned_trophies') else {}
-            platinum_count = earned_trophies.get('platinum', 0) if isinstance(earned_trophies, dict) else 0
+        for title in user.trophy_titles(limit=30):
+            earned = getattr(title, 'earned_trophies', {})
+            platinum = earned.get('platinum', 0) if isinstance(earned, dict) else 0
 
-            if platinum_count > 0:
+            if platinum > 0:
                 icon = getattr(title, 'trophy_title_icon_url', '') or getattr(title, 'icon_url', '')
                 earned_date = getattr(title, 'last_updated_datetime', 'N/A')
                 if isinstance(earned_date, str):
@@ -55,13 +54,17 @@ def main():
                 if len(recent_platinums) >= 5:
                     break
     except Exception as e:
-        print(f"Warning: Could not fetch recent platinums: {e}")
-        recent_platinums = []
+        print(f"Warning: Could not load platinums: {e}")
+
+    # Safe attribute access for trophy summary
+    level = getattr(trophy_summary, 'trophy_level', getattr(trophy_summary, 'level', 'N/A'))
+    total_trophies = getattr(trophy_summary, 'total_trophies', getattr(trophy_summary, 'totalTrophies', 0))
+    platinum_count = getattr(trophy_summary, 'platinum_count', getattr(trophy_summary, 'platinum', 0))
 
     now_playing = presence.get("primaryInfo", {}).get("onlineStatus", "Offline")
     current_game = presence.get("primaryInfo", {}).get("gameTitle", "Not playing")
 
-    ps_plus_status = "✅ Active" if getattr(profile, 'is_ps_plus', False) or profile.get('isPsPlus', False) else "❌ Inactive"
+    ps_plus_status = "✅ Active" if getattr(profile, 'is_ps_plus', False) or getattr(profile, 'isPsPlus', False) else "❌ Inactive"
 
     twitch_status = get_twitch_status()
 
@@ -69,16 +72,14 @@ def main():
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    start_marker = "<!--START_SECTION:psn-->"
-    end_marker = "<!--END_SECTION:psn-->"
+    start = "<!--START_SECTION:psn-->"
+    end = "<!--END_SECTION:psn-->"
 
     new_section = f"""
 <div align="center">
   <h3>🎮 PSN + Twitch Live Dashboard • Updated {datetime.utcnow().strftime('%b %d, %Y %H:%M UTC')}</h3>
 
-  <p><strong>Level {getattr(trophy_summary, 'trophy_level', trophy_summary.get('trophyLevel', 'N/A'))}</strong> 
-     • {getattr(trophy_summary, 'total_trophies', trophy_summary.get('totalTrophies', 0))} Trophies 
-     • {getattr(trophy_summary, 'platinum_count', trophy_summary.get('platinumCount', 0))} Platinum 🏆</p>
+  <p><strong>Level {level}</strong> • {total_trophies} Trophies • {platinum_count} Platinum 🏆</p>
 
   <img src="https://img.shields.io/badge/PS%20Plus-{ps_plus_status.replace(' ', '%20')}-003087?style=for-the-badge&logo=playstation&logoColor=white" alt="PS Plus" />
 
@@ -98,17 +99,17 @@ def main():
 </div>
 """
 
-    if start_marker in content and end_marker in content:
-        before = content.split(start_marker)[0]
-        after = content.split(end_marker)[1]
-        content = before + start_marker + new_section + end_marker + after
+    if start in content and end in content:
+        before = content.split(start)[0]
+        after = content.split(end)[1]
+        content = before + start + new_section + end + after
     else:
-        content += f"\n{start_marker}{new_section}{end_marker}\n"
+        content += f"\n{start}{new_section}{end}\n"
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
 
-    print("✅ PSN + Twitch section updated successfully!")
+    print("✅ PSN Dashboard updated successfully!")
 
 if __name__ == "__main__":
     main()
