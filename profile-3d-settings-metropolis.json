@@ -1,0 +1,18 @@
+{
+  "fileName": "profile-3d-contrib/profile-metropolis-twitch-neon.svg",
+  "theme": "night",
+  "style": "custom",
+  "barHeightMultiplier": 4.2,
+  "extrusionDepth": 3.1,
+  "cameraAngle": 28,
+  "cameraDistance": 1.9,
+  "backgroundColor": "#0a001f",
+  "gridColor": "#00f7ff",
+  "barColorGradient": ["#00f7ff", "#a020f0", "#ff00aa"],
+  "neonGlow": true,
+  "skylineMode": true,
+  "buildingDensity": 1.35,
+  "windowLights": true,
+  "animationSpeed": 0.75,
+  "twitchAccent": true
+}
