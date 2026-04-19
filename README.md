@@ -1,9 +1,23 @@
-![header.png](https://github.com/TSMCIDevTest/TSMCIDevTest/blob/main/header.png?raw=true)
-<p align="center">Welcome to my github profile!</p>
-<h3 align="center">A passionate frontend and backend with some game knowledge developer from USA</h3>
+<div align="center">
+  <!-- Your original header image as the main banner -->
+  <img src="https://github.com/TSMCIDevTest/TSMCIDevTest/blob/main/header.png?raw=true" width="100%" alt="Bradley Christopher Header Banner" style="border-radius: 12px;" />
+  
+  <br><br>
+  <p align="center"><strong>Welcome to my GitHub profile!</strong></p>
+  <h3 align="center">A passionate frontend & backend developer with game knowledge from the USA 🇺🇸 | Trophy Hunter & Streamer 🎮</h3>
 
-## Coding Memes "May have required some good hummor stuff like words you put in a sentence that makes it spicy"
-<img src="https://subreddit-memes-eight.vercel.app/api/meme" width="350px"/>
+  <!-- 3D Twitch-Neon Metropolis Skyscraper Contribution Graph -->
+  <h2>🌃 My GitHub Activity – Neon Metropolis Skyscraper Edition</h2>
+  <img src="./profile-3d-contrib/profile-metropolis-twitch-neon.svg" width="100%" alt="3D Neon Skyscraper Contribution Graph" />
+  <p><em>GitHub commits visualized as a glowing cyberpunk skyline with Twitch neon accents 🏙️🔴</em></p>
+</div>
+
+---
+
+## 🎮 PSN + Twitch Live Dashboard (Auto-updated daily)
+
+<!--START_SECTION:psn-->
+<!--END_SECTION:psn-->
 
 ---
 
