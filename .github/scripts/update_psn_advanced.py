@@ -3,15 +3,15 @@ from datetime import datetime
 import requests
 from psnawp_api import PSNAWP
 
-PSN_ID = "banerlc"          # ← Your PSN Online ID
-TWITCH_USERNAME = "crazybrad77" # ← Your Twitch username (change if different)
+PSN_ID = "banerlc"          # ← Your exact PSN Online ID
+TWITCH_USERNAME = "crazybrad77" # ← Your Twitch username (change only if different)
 
 NPSSO = os.getenv("NPSSO")
 
 def get_twitch_status():
     try:
         url = f"https://api.twitch.tv/helix/streams?user_login={TWITCH_USERNAME}"
-        headers = {"Client-ID": "kimne78kx3ncx6brgo4mv6wki5h1k9"}  # Public client ID
+        headers = {"Client-ID": "kimne78kx3ncx6brgo4mv6wki5h1k9"}
         resp = requests.get(url, headers=headers, timeout=10)
         data = resp.json().get("data", [])
         if data:
@@ -26,26 +26,27 @@ def main():
         print("❌ NPSSO environment variable not found!")
         return
 
-    # FIXED: Use npsso_cookie instead of npsso
+    # Create PSNAWP client
     psnawp = PSNAWP(npsso_cookie=NPSSO)
     user = psnawp.user(online_id=PSN_ID)
 
-    profile = user.get_profile()
+    # FIXED: Use .profile() instead of .get_profile()
+    profile = user.profile()
     trophy_summary = user.trophy_summary()
     presence = user.get_presence()
 
-    # Recent platinums with icons
+    # Recent platinums with game icons (last 5)
     trophy_titles = list(user.trophy_titles(limit=50))
     recent_platinums = []
     for title in trophy_titles:
-        earned_trophies = title.get("trophySummary", {}).get("earnedTrophies", {})
-        if earned_trophies.get("platinum", 0) > 0:
+        earned = title.get("trophySummary", {}).get("earnedTrophies", {})
+        if earned.get("platinum", 0) > 0:
             icon = title.get("trophyTitleIconUrl", "")
-            earned = title.get("earnedDateTime", "N/A")[:10]
+            earned_date = title.get("earnedDateTime", "N/A")[:10]
             recent_platinums.append({
-                "title": title.get("trophyTitleName", "Unknown"),
+                "title": title.get("trophyTitleName", "Unknown Game"),
                 "icon": icon,
-                "earned": earned
+                "earned": earned_date
             })
             if len(recent_platinums) >= 5:
                 break
@@ -57,7 +58,7 @@ def main():
 
     twitch_status = get_twitch_status()
 
-    # Read and update README
+    # Update README.md
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
