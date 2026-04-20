@@ -1,0 +1,37 @@
+
+      <svg width="600" height="160" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0a0f2c"/>
+            <stop offset="100%" stop-color="#1b2a6b"/>
+          </linearGradient>
+          <clipPath id="circle">
+            <circle cx="80" cy="80" r="40" />
+          </clipPath>
+        </defs>
+
+        <rect width="100%" height="100%" rx="20" fill="url(#bg)" />
+        <rect x="0" y="0" width="6" height="100%" fill="#2f80ff" />
+
+        <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAADwCAYAAAA+VemSAAAABHNCSVQICAgIfAhkiAAAAB10RVh0U29mdHdhcmUAT1BUUGlYIGlNYWdlU3R1ZGlvIDTu8GrjAAADs0lEQVR4nO3dwW3bQBBAUTIQG0kH7iIVpMhUkC7UQRrRQWkgQLySJe7Hvnc3vFr5Yy5Der9vQNW3sw8APE7AECZgCBMwhAkYwgQMYQKGMAFDmIAhTMAQJmAIEzCECRjCBAxhAoYwAUOYgCFMwBAmYAgTMIQJGMIEDGEChjABQ5iAIUzAECZgCBMwhAkYwgQMYZezDzC7/ff20v/Aev+x7cM/9OfX2Jm+/xz9DUNnevUdbduD97QAExjCBAxhAoYwAUOYgCFMwBAmYAgTMIQJGMIEDGEChrDldqHfsbc74pHzvPoDzHZH2zZ+plV2p01gCBMwhAkYwgQMYQKGMAFDmIAhTMAQJmAIEzCECRjCBAxhyz3MMNuS+4wPDoya7U5XYgJDmIAhTMAQJmAIEzCECRjCBAxhAoYwAUOYgCFMwBC25xdxX88VzcG+9T+YwBAmYAgTMIQJGMIEDGEChjABQ5iAIUzAECZgCBMwhK24Cz3XR76/4Tj7kmvES3xoExjCBAxhAoYwAUOYgCFMwBAmYAgTMIQJGMIEDGEChrDL2Qd40lx7zdv2nt1mPmP0i0juTpvAECZgCBMwhAkYwgQMYQKGMAFDmIAhTMAQJmAIEzCEzbYLbZH4M9Z8z/NLXY9j6G/v43ab4kswgSFMwBAmYAgTMIQJGMIEDGEChjABQ5iAIUzAECZgCBMwhM32MEOfBw2mcD2Os4/wFiYwhAkYwgQMYQKGMAFDmIAhTMAQJmAIEzCECRjCBAxhAoYwAUOYgCFMwBAmYAgTMIQJGMIEDGEChjABQ5iAIUzAEOa90CSs8p7nUSYwhAkYwgQMYQKGMAFDmIAhTMAQJmAIEzCECRjCBAxhAoYwAUOYgCFMwBAmYAgTMIQJGMIEDGEChjABQ5iAIUzAECZgCNvvZ5/gOfHjr2nGl7R/3G772Wd4hAkMYQKGMAFDmIAhTMAQJmAIEzCECRjCBAxhAoYwAUPY5ewDPOmR/VX70wuo7jaPMoEhTMAQJmAIEzCECRjCBAxhAoYwAUOYgCFMwBAmYAirvxf6HZa7Iu9t7jCBIUzAECZgCBMwhAkYwgQMYQKGMAFDmIAhTMAQJmAIswv9xa7H4Ur/w17z1zGBIUzAECZgCBMwhAkYwgQMYQKGMAFDmIAhTMAQJmAIswsNYSYwhAkYwgQMYQKGMAFDmIAhTMAQJmAIEzCECRjCBAxhAoYwAUOYgCFMwBAmYAgTMIQJGMIEDGEChjABQ5iAIUzAECZgCBMwhP0FNMo9LLmKsmwAAAAASUVORK5CYII=" x="40" y="40" width="80" height="80" clip-path="url(#circle)" />
+
+        <text x="150" y="55" fill="#ffffff" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+          Banerlc
+        </text>
+
+        <circle cx="155" cy="78" r="5" fill="#ff4d4d" />
+        <text x="170" y="83" fill="#cfd8ff" font-family="Arial, sans-serif" font-size="14">
+          offline
+        </text>
+
+        <text x="150" y="110" fill="#9fb3ff" font-family="Arial, sans-serif" font-size="16">
+          🎮 Idle
+        </text>
+
+        <text x="150" y="138" font-family="Arial, sans-serif" font-size="14">
+          <tspan fill="#ffffff">🏆</tspan> <tspan fill="#e5e4e2">0</tspan>
+          <tspan fill="#ffd700" dx="10">🥇</tspan> <tspan fill="#ffffff">2</tspan>
+          <tspan fill="#c0c0c0" dx="10">🥈</tspan> <tspan fill="#ffffff">5</tspan>
+          <tspan fill="#cd7f32" dx="10">🥉</tspan> <tspan fill="#ffffff">29</tspan>
+        </text>
+      </svg>
