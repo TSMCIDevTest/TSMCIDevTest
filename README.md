@@ -5,14 +5,11 @@
   <br><br>
   <p align="center"><strong>Welcome to my GitHub profile!</strong></p>
   <h3 align="center">A passionate frontend & backend developer with game knowledge from the USA 🇺🇸 | Trophy Hunter & Streamer 🎮</h3>
-
-  <!-- 3D Twitch-Neon Metropolis Skyscraper Contribution Graph -->
-  <h2>PlayStation Stuff</h2>
-  ![PSN Status](./psn-status.svg)
 </div>
 
-## 🧩 Dev Stats + Gaming Life
-
+## PS5 Stuff
+<p>Join Me and Have fun</p>
+![PSN Status](./psn-status.svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TSMCIDevTest&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSMCIDevTest&theme=tokyonight" height="160"/>
