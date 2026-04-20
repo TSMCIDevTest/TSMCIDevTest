@@ -3,8 +3,9 @@ from datetime import datetime
 import requests
 from psnawp_api import PSNAWP
 
-PSN_ID = "Banerlc"
-TWITCH_USERNAME = "crazybrad77"
+# === IMPORTANT: Update these two lines ===
+PSN_ID = "Banerlc"              # ← Your actual PSN Online ID (from debug)
+TWITCH_USERNAME = "crazybrad77" # ← Your Twitch name (keep or change)
 
 NPSSO = os.getenv("NPSSO")
 
@@ -33,15 +34,15 @@ def main():
     trophy_summary = user.trophy_summary()
     presence = user.get_presence()
 
-    # Safe trophy data extraction
+    # Trophy data
     level = getattr(trophy_summary, 'trophy_level', getattr(trophy_summary, 'level', 'N/A'))
     total_trophies = getattr(trophy_summary, 'total_trophies', getattr(trophy_summary, 'totalTrophies', 0))
     platinum_count = getattr(trophy_summary, 'platinum_count', getattr(trophy_summary, 'platinum', 0))
 
-    # Recent Platinums
+    # Recent Platinums (limited to avoid errors)
     recent_platinums = []
     try:
-        for title in user.trophy_titles(limit=30):
+        for title in user.trophy_titles(limit=20):
             earned = getattr(title, 'earned_trophies', {})
             platinum = earned.get('platinum', 0) if isinstance(earned, dict) else 0
             if platinum > 0:
@@ -55,8 +56,9 @@ def main():
                 if len(recent_platinums) >= 5:
                     break
     except Exception as e:
-        print(f"Warning: Could not load platinums → {e}")
+        print(f"Warning: Platinums fetch failed: {e}")
 
+    # Presence
     now_playing = presence.get("primaryInfo", {}).get("onlineStatus", "Offline")
     current_game = presence.get("primaryInfo", {}).get("gameTitle", "Not playing")
 
@@ -64,22 +66,18 @@ def main():
 
     twitch_status = get_twitch_status()
 
+    # Update README
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
     start = "<!--START_SECTION:psn-->"
     end = "<!--END_SECTION:psn-->"
 
-    if total_trophies == 0:
-        trophy_text = "<p><em>No trophies earned yet or profile may be private. Make sure your trophy visibility is set to Public.</em></p>"
-    else:
-        trophy_text = f"<p><strong>Level {level}</strong> • {total_trophies} Trophies • {platinum_count} Platinum 🏆</p>"
-
     new_section = f"""
 <div align="center">
   <h3>🎮 PSN + Twitch Live Dashboard • Updated {datetime.utcnow().strftime('%b %d, %Y %H:%M UTC')}</h3>
 
-  {trophy_text}
+  <p><strong>Level {level}</strong> • {total_trophies} Trophies • {platinum_count} Platinum 🏆</p>
 
   <img src="https://img.shields.io/badge/PS%20Plus-{ps_plus_status.replace(' ', '%20')}-003087?style=for-the-badge&logo=playstation&logoColor=white" alt="PS Plus" />
 
@@ -109,7 +107,7 @@ def main():
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
 
-    print("✅ PSN Dashboard updated!")
+    print(f"✅ Updated successfully for PSN ID: {PSN_ID}")
 
 if __name__ == "__main__":
     main()
