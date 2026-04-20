@@ -2,8 +2,7 @@ name: Update PSN Status
 
 on:
   schedule:
-    # This runs every hour. You can change this to '*/15 * * * *' for every 15 mins.
-    - cron: '0 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch: # Allows you to run it manually
 
 jobs:
