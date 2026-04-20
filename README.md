@@ -7,22 +7,9 @@
   <h3 align="center">A passionate frontend & backend developer with game knowledge from the USA 🇺🇸 | Trophy Hunter & Streamer 🎮</h3>
 
   <!-- 3D Twitch-Neon Metropolis Skyscraper Contribution Graph -->
-  <h2>🌃 My GitHub Activity – Neon Metropolis Skyscraper Edition</h2>
-  <img src="./profile-3d-contrib/profile-metropolis-twitch-neon.svg" width="100%" alt="3D Neon Skyscraper Contribution Graph" />
-  <p><em>GitHub commits visualized as a glowing cyberpunk skyline with Twitch neon accents 🏙️🔴</em></p>
+  <h2>PlayStation Stuff</h2>
+  ![PSN Status](./psn-status.svg)
 </div>
-
----
-
-# 🎮 Bradley's Gaming Hub
-
-## 🧩 Profile Overview
-
-# 🎮 My PSN Stuff
-
-![PSN Status](./psn-status.svg)
-
----
 
 ## 🧩 Dev Stats + Gaming Life
 
