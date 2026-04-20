@@ -7,9 +7,16 @@
   <h3 align="center">A passionate frontend & backend developer with game knowledge from the USA 🇺🇸 | Trophy Hunter & Streamer 🎮</h3>
 </div>
 
+---
 ## PS5 Stuff
 <p>Join Me and Have fun</p>
+
 ![PSN Status](./psn-status.svg)
+
+---
+
+---
+## Other stuff!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TSMCIDevTest&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSMCIDevTest&theme=tokyonight" height="160"/>
