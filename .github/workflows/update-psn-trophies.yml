@@ -1,9 +1,9 @@
-name: Update PSN Trophies + Platinums + Twitch Feed
+name: Update PSN from PSNProfiles
 
 on:
   schedule:
-    - cron: "*/15 * * * *"     # Runs daily at 3 AM UTC
-  workflow_dispatch:        # Allows you to run it manually
+    - cron: "*/30 * * * *"     # Every 30 minutes (you can change to */15 if you want)
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -20,21 +20,19 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install psnawp requests
+        run: pip install requests beautifulsoup4
 
-      - name: Run PSN + Twitch Update Script
-        run: python .github/scripts/update_psn_advanced.py
-        env:
-          NPSSO: ${{ secrets.NPSSO }}
+      - name: Run PSNProfiles Scraper
+        run: python .github/scripts/update_psn_from_psnprofiles.py
 
-      - name: Commit & Push changes
+      - name: Commit & Push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
           else
-            git commit -m "Update PSN trophies, recent platinums, live feed & PS Plus status"
+            git commit -m "Update PSN data from PSNProfiles"
             git push
           fi
