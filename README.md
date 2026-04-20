@@ -14,23 +14,67 @@
 
 ---
 
-## 🎮 PSN + Twitch Live Dashboard (Auto-updated daily)
+# 🎮 Bradley's Gaming Hub
 
-<!--START_SECTION:psn-->
-<div align="center">
-  <h3>PSN Profile – Banerlc • PlayStation Plus User since 2026!</h3>
-  
-  <p><strong>Level N/A</strong> • 0 Trophies • 0 Platinum </p>
-  <p><strong>Games Played:</strong> 0</p>
+## 🧩 Profile Overview
 
-  <a href="https://psnprofiles.com/Banerlc" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Full%20Profile%20on%20PSNProfiles-003087?style=for-the-badge&logo=playstation&logoColor=white" alt="PSNProfiles" />
+<p align="center">
+  <a href="https://your-vercel-app.vercel.app/?user=YOUR_USERNAME">
+    <img src="https://your-vercel-app.vercel.app/api/psn?user=YOUR_USERNAME" width="600"/>
   </a>
+</p>
 
-  <br><br>
-  <p><em>Last updated: Apr 20, 2026 01:10 UTC</em></p>
-</div>
-<!--END_SECTION:psn-->
+---
+
+## 🎮 Now Playing
+
+<p align="center">
+  <img src="https://your-vercel-app.vercel.app/api/psn?user=YOUR_USERNAME&mode=inline" />
+</p>
+
+---
+
+## 🏆 Trophy Highlights
+
+<p align="center">
+  <img src="https://your-vercel-app.vercel.app/api/trophies?user=YOUR_USERNAME" />
+</p>
+
+---
+
+## 🧩 Dev Stats + Gaming Life
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌈 Animated Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🎮%20PlayStation-Gamer-blue?style=for-the-badge&logo=playstation&logoColor=white" />
+<img src="https://img.shields.io/badge/🏆%20Trophies-Hunter-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻%20Developer-Full%20Stack-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡%20Status-Online-green?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🔗 Links
+
+- 🎮 Full PS Profile:  
+  https://your-vercel-app.vercel.app/?user=YOUR_USERNAME
+
+- 💻 GitHub:  
+  https://github.com/TSMCIDevTest
 
 ---
 
