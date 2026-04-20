@@ -19,8 +19,8 @@
 ## 🧩 Profile Overview
 
 <p align="center">
-  <a href="https://your-vercel-app.vercel.app/?user=YOUR_USERNAME">
-    <img src="https://your-vercel-app.vercel.app/api/psn?user=YOUR_USERNAME" width="600"/>
+  <a href="https://gaming-stuff.vercel.app//?user=TSMCIDevTest">
+    <img src="https://gaming-stuff.vercel.app/api/psn?user=TSMCIDevTest" width="600"/>
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 ## 🎮 Now Playing
 
 <p align="center">
-  <img src="https://your-vercel-app.vercel.app/api/psn?user=YOUR_USERNAME&mode=inline" />
+  <img src="https://gaming-stuff.vercel.app/api/psn?user=TSMCIDevTest&mode=inline" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🏆 Trophy Highlights
 
 <p align="center">
-  <img src="https://your-vercel-app.vercel.app/api/trophies?user=YOUR_USERNAME" />
+  <img src="https://gaming-stuff.vercel.app/api/trophies?user=TSMCIDevTest" />
 </p>
 
 ---
