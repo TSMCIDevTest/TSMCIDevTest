@@ -18,7 +18,7 @@
 
 ## 🧩 Profile Overview
 
-# 🎮 My PSN Profile
+# 🎮 My PSN Stuff
 
 ![PSN Status](https://gaming-stuff.vercel.app/api/profile?user=Banerlc&format=svg)
 
