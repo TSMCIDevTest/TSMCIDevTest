@@ -4,7 +4,7 @@
   
   <br><br>
   <p align="center"><strong>Welcome to my GitHub profile!</strong></p>
-  <h3 align="center">A passionate frontend & backend developer with game knowledge from the USA | Gamer 🎮</h3>
+  <h3 align="center">A passionate frontend & backend developer with game knowledge from the USA | Gamer</h3>
 </div>
 
 ---
