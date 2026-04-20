@@ -27,12 +27,12 @@
 ## 🧩 Dev Stats + Gaming Life
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TSMCIDevTest&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSMCIDevTest&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSMCIDevTest&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
