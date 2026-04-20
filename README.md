@@ -22,9 +22,6 @@
 
 ![PSN Status](./psn-status.svg)
 
-## 🎮 Now Playing
-![Now Playing](https://gaming-stuff.vercel.app/api/now-playing?user=Banerlc)
-
 ---
 
 ## 🧩 Dev Stats + Gaming Life
