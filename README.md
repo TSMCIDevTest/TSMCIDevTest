@@ -27,6 +27,11 @@
 </p>
 
 ---
+## Coding Memes
+## Coding Memes "May have required some good hummor stuff like words you put in a sentence that makes it spicy"
+<img src="https://subreddit-memes-eight.vercel.app/api/meme" width="350px"/>
+
+---
 
 ## 🌈 Animated Badges
 
