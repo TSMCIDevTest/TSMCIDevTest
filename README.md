@@ -18,7 +18,7 @@
 
 <!--START_SECTION:psn-->
 <div align="center">
-  <h3>🎮 PSN + Twitch Live Dashboard • Updated Apr 20, 2026 00:26 UTC</h3>
+  <h3>🎮 PSN + Twitch Live Dashboard • Updated Apr 20, 2026 00:33 UTC</h3>
 
   <p><em>No trophies earned yet or profile may be private. Make sure your trophy visibility is set to Public.</em></p>
 
