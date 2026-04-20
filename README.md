@@ -18,9 +18,9 @@
 
 <!--START_SECTION:psn-->
 <div align="center">
-  <h3>🎮 PSN + Twitch Live Dashboard • Updated Apr 20, 2026 00:33 UTC</h3>
+  <h3>🎮 PSN + Twitch Live Dashboard • Updated Apr 20, 2026 00:48 UTC</h3>
 
-  <p><em>No trophies earned yet or profile may be private. Make sure your trophy visibility is set to Public.</em></p>
+  <p><strong>Level 13</strong> • 0 Trophies • 0 Platinum 🏆</p>
 
   <img src="https://img.shields.io/badge/PS%20Plus-❌%20Inactive-003087?style=for-the-badge&logo=playstation&logoColor=white" alt="PS Plus" />
 
