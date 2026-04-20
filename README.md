@@ -18,20 +18,17 @@
 
 <!--START_SECTION:psn-->
 <div align="center">
-  <h3>🎮 PSN + Twitch Status • Last Updated Apr 20, 2026 00:55 UTC</h3>
+  <h3>PSN Profile – Banerlc • PlayStation Plus User since 2026!</h3>
   
-  <p><strong>PSN ID:</strong> Banerlc</p>
-  <p>Add me for GTA Online sessions or co-op!</p>
-
-  <img src="https://img.shields.io/badge/PS%20Plus-Check%20in%20game-003087?style=for-the-badge&logo=playstation&logoColor=white" alt="PS Plus" />
+  <p><strong>Level N/A</strong> • 0 Trophies • 0 Platinum </p>
+  <p><strong>Games Played:</strong> 0</p>
 
   <a href="https://psnprofiles.com/Banerlc" target="_blank">
     <img src="https://img.shields.io/badge/View%20Full%20Profile%20on%20PSNProfiles-003087?style=for-the-badge&logo=playstation&logoColor=white" alt="PSNProfiles" />
   </a>
-  
-  <a href="https://twitch.tv/crazybrad77" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-Follow%20Live-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
+
+  <br><br>
+  <p><em>Last updated: Apr 20, 2026 01:10 UTC</em></p>
 </div>
 <!--END_SECTION:psn-->
 
