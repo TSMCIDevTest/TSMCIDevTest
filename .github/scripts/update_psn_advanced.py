@@ -3,7 +3,7 @@ from datetime import datetime
 import requests
 from psnawp_api import PSNAWP
 
-PSN_ID = "banerlc"
+PSN_ID = "crazybrad77"
 TWITCH_USERNAME = "crazybrad77"
 
 NPSSO = os.getenv("NPSSO")
@@ -33,19 +33,20 @@ def main():
     trophy_summary = user.trophy_summary()
     presence = user.get_presence()
 
-    # Recent Platinums (safer handling of TrophyTitle objects)
+    # Safe trophy data extraction
+    level = getattr(trophy_summary, 'trophy_level', getattr(trophy_summary, 'level', 'N/A'))
+    total_trophies = getattr(trophy_summary, 'total_trophies', getattr(trophy_summary, 'totalTrophies', 0))
+    platinum_count = getattr(trophy_summary, 'platinum_count', getattr(trophy_summary, 'platinum', 0))
+
+    # Recent Platinums
     recent_platinums = []
     try:
         for title in user.trophy_titles(limit=30):
             earned = getattr(title, 'earned_trophies', {})
             platinum = earned.get('platinum', 0) if isinstance(earned, dict) else 0
-
             if platinum > 0:
                 icon = getattr(title, 'trophy_title_icon_url', '') or getattr(title, 'icon_url', '')
-                earned_date = getattr(title, 'last_updated_datetime', 'N/A')
-                if isinstance(earned_date, str):
-                    earned_date = earned_date[:10]
-
+                earned_date = str(getattr(title, 'last_updated_datetime', 'N/A'))[:10]
                 recent_platinums.append({
                     "title": getattr(title, 'trophy_title_name', 'Unknown Game'),
                     "icon": icon,
@@ -54,12 +55,7 @@ def main():
                 if len(recent_platinums) >= 5:
                     break
     except Exception as e:
-        print(f"Warning: Could not load platinums: {e}")
-
-    # Safe attribute access for trophy summary
-    level = getattr(trophy_summary, 'trophy_level', getattr(trophy_summary, 'level', 'N/A'))
-    total_trophies = getattr(trophy_summary, 'total_trophies', getattr(trophy_summary, 'totalTrophies', 0))
-    platinum_count = getattr(trophy_summary, 'platinum_count', getattr(trophy_summary, 'platinum', 0))
+        print(f"Warning: Could not load platinums → {e}")
 
     now_playing = presence.get("primaryInfo", {}).get("onlineStatus", "Offline")
     current_game = presence.get("primaryInfo", {}).get("gameTitle", "Not playing")
@@ -68,25 +64,29 @@ def main():
 
     twitch_status = get_twitch_status()
 
-    # Update README
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
     start = "<!--START_SECTION:psn-->"
     end = "<!--END_SECTION:psn-->"
 
+    if total_trophies == 0:
+        trophy_text = "<p><em>No trophies earned yet or profile may be private. Make sure your trophy visibility is set to Public.</em></p>"
+    else:
+        trophy_text = f"<p><strong>Level {level}</strong> • {total_trophies} Trophies • {platinum_count} Platinum 🏆</p>"
+
     new_section = f"""
 <div align="center">
   <h3>🎮 PSN + Twitch Live Dashboard • Updated {datetime.utcnow().strftime('%b %d, %Y %H:%M UTC')}</h3>
 
-  <p><strong>Level {level}</strong> • {total_trophies} Trophies • {platinum_count} Platinum 🏆</p>
+  {trophy_text}
 
   <img src="https://img.shields.io/badge/PS%20Plus-{ps_plus_status.replace(' ', '%20')}-003087?style=for-the-badge&logo=playstation&logoColor=white" alt="PS Plus" />
 
   <h4>🔥 Recent Platinums</h4>
   <table>
     <tr><th>Game</th><th>Earned</th></tr>
-    {"".join(f"<tr><td><img src='{p['icon']}' width='32' height='32' style='vertical-align:middle'> {p['title']}</td><td>{p['earned']}</td></tr>" for p in recent_platinums)}
+    {"".join(f"<tr><td><img src='{p['icon']}' width='32' height='32' style='vertical-align:middle'> {p['title']}</td><td>{p['earned']}</td></tr>" for p in recent_platinums) or "<tr><td colspan='2'>No recent platinums yet</td></tr>"}
   </table>
 
   <h4>📡 Live Status</h4>
@@ -109,7 +109,7 @@ def main():
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
 
-    print("✅ PSN Dashboard updated successfully!")
+    print("✅ PSN Dashboard updated!")
 
 if __name__ == "__main__":
     main()
