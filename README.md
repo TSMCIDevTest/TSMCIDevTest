@@ -18,27 +18,12 @@
 
 ## 🧩 Profile Overview
 
-<p align="center">
-  <a href="https://gaming-stuff.vercel.app//?user=TSMCIDevTest">
-    <img src="https://gaming-stuff.vercel.app/api/psn?user=TSMCIDevTest" width="600"/>
-  </a>
-</p>
+# 🎮 My PSN Profile
 
----
+[![PSN](https://gaming-stuff.vercel.app/api/psn?user=Banerlc)](https://gaming-stuff.vercel.app/?user=Banerlc)
 
 ## 🎮 Now Playing
-
-<p align="center">
-  <img src="https://gaming-stuff.vercel.app/api/psn?user=TSMCIDevTest&mode=inline" />
-</p>
-
----
-
-## 🏆 Trophy Highlights
-
-<p align="center">
-  <img src="https://gaming-stuff.vercel.app/api/trophies?user=TSMCIDevTest" />
-</p>
+![Now Playing](https://gaming-stuff.vercel.app/api/now-playing?user=Banerlc)
 
 ---
 
