@@ -43,19 +43,7 @@
 <img src="https://img.shields.io/badge/⚡%20Status-Online-green?style=for-the-badge" />
 
 </p>
-
 ---
-
-## 🔗 Links
-
-- 🎮 Full PS Profile:  
-  https://your-vercel-app.vercel.app/?user=YOUR_USERNAME
-
-- 💻 GitHub:  
-  https://github.com/TSMCIDevTest
-
----
-
 ## Snake
 ![github-snake.svg](https://github.com/TSMCIDevTest/TSMCIDevTest/blob/output/github-snake.svg)
 
