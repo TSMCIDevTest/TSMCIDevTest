@@ -20,7 +20,7 @@
 
 # 🎮 My PSN Profile
 
-[![PSN](https://gaming-stuff.vercel.app/api/psn?user=Banerlc)](https://gaming-stuff.vercel.app/?user=Banerlc)
+![PSN Status](https://gaming-stuff.vercel.app/api/profile?user=Banerlc&format=svg)
 
 ## 🎮 Now Playing
 ![Now Playing](https://gaming-stuff.vercel.app/api/now-playing?user=Banerlc)
