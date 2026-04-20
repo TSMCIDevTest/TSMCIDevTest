@@ -3,7 +3,7 @@ from datetime import datetime
 import requests
 from psnawp_api import PSNAWP
 
-PSN_ID = "banerlc"
+PSN_ID = "Banerlc"
 TWITCH_USERNAME = "crazybrad77"
 
 NPSSO = os.getenv("NPSSO")
