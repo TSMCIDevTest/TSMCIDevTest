@@ -104,7 +104,7 @@ No activity tracked
 
 ## 🎥 Featured Video
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Fortnite Stream](https://ytcards.demolab.com/?id=fTZA8aKRd4Q&title=Fortnite+Stream&lang=en&timestamp=1790100578&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fortnite Stream")](https://www.youtube.com/watch?v=fTZA8aKRd4Q)
+[![Fortnite Stream](https://ytcards.demolab.com/?id=fTZA8aKRd4Q&title=Fortnite+Stream&lang=en&timestamp=1790110929&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fortnite Stream")](https://www.youtube.com/watch?v=fTZA8aKRd4Q)
 [![Fortnite Stream](https://ytcards.demolab.com/?id=SydzvbigKHo&title=Fortnite+Stream&lang=en&timestamp=1789544366&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fortnite Stream")](https://www.youtube.com/watch?v=SydzvbigKHo)
 [![CrazyBrad77 Fortnite Live Stream](https://ytcards.demolab.com/?id=--vjtEvHTV4&title=CrazyBrad77+Fortnite+Live+Stream&lang=en&timestamp=1789542098&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CrazyBrad77 Fortnite Live Stream")](https://www.youtube.com/watch?v=--vjtEvHTV4)
 [![How to publish your Rec Room avatar to VRChat.](https://ytcards.demolab.com/?id=7_6seNtFqsI&title=How+to+publish+your+Rec+Room+avatar+to+VRChat.&lang=en&timestamp=1778623289&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to publish your Rec Room avatar to VRChat.")](https://www.youtube.com/watch?v=7_6seNtFqsI)
